@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "902597433698",
+    "project_id": "fanzaky-pa",
+    "storage_bucket": "fanzaky-pa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902597433698:android:d3aa15fcc2ac2a8d26343b",
+        "android_client_info": {
+          "package_name": "com.example.gtk_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902597433698-hqdfsh881ridqskm3e85r7eehrovaf51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3z7QIxvz5LfOIljo-6TA6eY0-s6p3VOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902597433698-hqdfsh881ridqskm3e85r7eehrovaf51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
